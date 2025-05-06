@@ -3,6 +3,6 @@ Curso: Programación Orientada a Objetos
 
 INTEGRANTES: 
 
-Edna Leandra Pamplona López
+Edna Leandra Pamplona López - epamplona@unal.edu.co
 
 Luis Miguel Doria Rodríguez - ldoria@unal.edu.co
